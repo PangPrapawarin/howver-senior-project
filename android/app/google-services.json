@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1025519469849",
+    "project_id": "senior-project-4527b",
+    "storage_bucket": "senior-project-4527b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1025519469849:android:9022ec847c14d1abbcf188",
+        "android_client_info": {
+          "package_name": "com.example.howver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1025519469849-211ac8306p9s5mil72du1etga2ksgj35.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWmC_G3KzWRZSjR-FQ7Cyom4pPtlRpI8Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1025519469849-211ac8306p9s5mil72du1etga2ksgj35.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
