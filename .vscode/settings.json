@@ -1,0 +1,5 @@
+{
+    "cmake.configureOnOpen": false,
+    "java.configuration.updateBuildConfiguration": "disabled",
+    "cmake.sourceDirectory": "${workspaceFolder}/windows/flutter"
+}
